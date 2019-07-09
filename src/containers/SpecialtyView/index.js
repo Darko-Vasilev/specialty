@@ -9,6 +9,7 @@ import SecuredRoute from '../../routers/SecuredRoute';
 import AllSpecialties from './AllSpecialties';
 import SpecialtyDetailView from './SpecialtyDetailView';
 
+
 const styles = theme => ({
     root: {
         flexGrow: 1,
